@@ -1,0 +1,42 @@
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+    }
+    #resultado {
+      margin-top: 20px;
+      padding: 10px;
+      border: 1px solid #ccc;
+      max-width: 400px;
+      border-radius: 5px;
+      background: #f9f9f9;
+    }
+
+    p {
+      margin: 5px 0;
+    }
+
+    h1{
+        color: rgb(233, 97, 0);
+    }
+
+    button{
+        background: linear-gradient(to right, rgb(145, 0, 0), rgb(255, 115, 0), rgb(145, 0, 0));
+        color: white;
+        border-radius: 7px;
+        font-size: 25px;
+        cursor: pointer;
+    }
+
+    button:hover{
+        transform: scale(1.05);
+        transition: 0.0s;
+    }
+
+    input{
+        font-size: 25px;
+    }
+
+    label{
+        font-size: 25px;
+    }
+    
